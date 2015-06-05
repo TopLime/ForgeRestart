@@ -1,12 +1,28 @@
-*.class
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+#eclipse
+/bin
+/.settings
+/.classpath
 
-# Package Files #
-*.jar
-*.war
-*.ear
+#idea
+/.idea
+*.iml
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+#gradle
+/build
+/.gradle
+
+#occupational hazards
+/eclipse/
+/repo/
+/buildSrc
+
+#Patch rejects
+*.rej
+/patches-/
+# FML changelog
+changelog.txt
+/patches_old/
+/patches_old_bak/
+*.py
+*.7z
