@@ -1,0 +1,16 @@
+[
+{
+  "modid": "forgerestart",
+  "name": "ForgeRestart",
+  "description": "Scheduled restart for server",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Bovine Colonel"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
