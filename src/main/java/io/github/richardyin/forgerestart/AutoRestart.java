@@ -1,4 +1,4 @@
-package io.github.richardyin.autorestart;
+package io.github.richardyin.forgerestart;
 
 import java.util.Calendar;
 import java.util.concurrent.Executors;

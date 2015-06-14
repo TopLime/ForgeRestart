@@ -11,6 +11,7 @@
 #gradle
 /build
 /.gradle
+/gradle
 
 #occupational hazards
 /eclipse/
